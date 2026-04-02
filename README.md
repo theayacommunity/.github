@@ -1,39 +1,34 @@
+![aya_community](https://github.com/user-attachments/assets/489a8615-20e0-4f45-b2bb-e933a187917e)
+
 # Welcome to the Aya Community 👋
+Aya Community is a global hub for AI × Web3 builders, online and across multiple cities worldwide. Powered by Aya, we bring builders together through meetups, hack nights and hackathons designed for one thing i.e, shipping.
 
-The **Aya Community** is a beginner-friendly, open community built around learning Web3 by actually building — not just watching content.
+Whether you’re starting your Web3 journey or already building agents, smart contracts and dApps, Aya gives you a clear path from learning to launching. With Aya Codex, our gamified builder track, you level up through quests, ship real projects and earn on-chain as you progress with feedback from builders who’ve been there.
 
-We focus on hands-on projects, collaborative challenges, and making Rust smart contract development accessible to everyone.
-
----
-
-## 🌐 What We Do
-
-- **Build & Learn Sprints** — Time-boxed coding challenges where participants design and ship real Rust smart contracts.
-- **Beginner-Friendly Onboarding** — Step-by-step guides and community support to get you from zero to your first deployed contract.
-- **Peer Learning** — Code reviews, explanations, and feedback from the community.
+We’re here to help you grow your builder journey, showcase your work, find co-builders, get fast reviews and access high-signal opportunities. From curated alpha drops to community-built templates and starter kits, Aya is where experimentation turns into real products together.
 
 ---
 
-## 🗂️ Repositories
+## What We Do
 
-| Repository | Description |
-|---|---|
-| [Build-And-Learn-Week](https://github.com/theayacommunity/Build-And-Learn-Week) | Beginner onboarding sprint — build and ship your first Rust smart contract |
+- **Build & Learn Week** — A week long coding challenges where participants learn,build,design and ship real products.
+- **Beginner-Friendly Hackathons** — Global Hackathons to get you from zero to your first real product with the help of Step-by-step guides and community support
+- **Peer Learning** — Code reviews, explanations and feedback from the community.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-1. Explore the [Build-And-Learn-Week](https://github.com/theayacommunity/Build-And-Learn-Week) repository.
-2. Pick a challenge that fits your level.
-3. Build, document, and submit your smart contract.
+1. Explore the [Aya Community](https://theayacommunity.com/) & [Aya Codex](https://codex.theayacommunity.com/)
+2. Learn,Build & Earn through Codex by picking up a challenge that fits your level.
+3. Be the part of the community and grow together
 4. Get feedback from the community.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-We welcome contributions of all kinds — code, documentation, ideas, and feedback.
+We welcome contributions of all kinds code, documentation, ideas and feedback.
 
 - Open an issue to suggest a new challenge or improvement.
 - Submit a pull request with your changes.
@@ -41,6 +36,6 @@ We welcome contributions of all kinds — code, documentation, ideas, and feedba
 
 ---
 
-## 📬 Stay Connected
+## Stay Connected
 
 Follow our organization on GitHub to get notified about new challenges and community events.
